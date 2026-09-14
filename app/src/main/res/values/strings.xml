@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rashed AI</string>
+    <string name="accessibility_service_label">Rashed AI Automation Service</string>
+    <string name="accessibility_service_description">Allows Rashed AI to assist with app navigation, typing, clicking, and inspecting visible UI upon user voice commands.</string>
+</resources>

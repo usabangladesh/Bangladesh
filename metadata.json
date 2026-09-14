@@ -1,0 +1,6 @@
+{
+  "name": "Rashed AI",
+  "description": "Real-time Gemini Live voice & video AI assistant for Android with tool automation and accessibility service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
